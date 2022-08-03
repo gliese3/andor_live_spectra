@@ -1,0 +1,3 @@
+Cy5 in ethanol, excited with a 634 nm laser, vertical polarization, 10MHz reprate.
+MCP detector, emission detected at 670 +/- 2 nm, magic angle polarized. Channel resolution: 4ps, IRF
+width 76 ps (FWHM), 26 seconds runtime.

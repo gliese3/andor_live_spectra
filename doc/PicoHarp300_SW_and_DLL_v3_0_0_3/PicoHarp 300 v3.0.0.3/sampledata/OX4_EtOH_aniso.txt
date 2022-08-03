@@ -1,0 +1,4 @@
+Oxazine 4 in ethanol at 27 deg. C.
+
+MCP detector, vertically polarized excitation with 632-633 nm red laser at 10 MHz.
+Emission detected at 650+/-2nm. Emission polarizer set to Magic Angle, then to V, then H.

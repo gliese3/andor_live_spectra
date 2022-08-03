@@ -1,0 +1,3 @@
+Coumarin 6 in Ethanol 
+PMT detector, no Polarizers, 440 nm laser excitation, 10MHz reprate,
+>520 nm emission detection                                    
